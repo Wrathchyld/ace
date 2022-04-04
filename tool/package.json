@@ -4,7 +4,7 @@
   "dependencies": {
     "cson": "^3.0.1",
     "css-parse": "1.0.3",
-    "css-stringify": "1.0.3",
+    "css-stringify": "1.4.1",
     "plist": ""
   }
 }
