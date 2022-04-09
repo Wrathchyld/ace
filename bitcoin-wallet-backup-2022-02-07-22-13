@@ -815,11 +815,5 @@ I5cfIhZPaqcwKzJiRgk/fMnANxNL9VaO4gCMRvEWljBVKUN9O6tTnOrlg06XTLXcz5AuRI5se0ng
 KO+vY/8R9v3qGBE2Ff07mkuqs5V8cB2SlUmxMjxofWirxZF1oYz+jJ2eO+HkdE5dva5wqhPI18o4
 vwRlNVTazUD+48Secc5SXICPZuVxoSmHjuwDJjr34H/JpRF/1VBlqhLs0C06rI1X1dVIwMlX838c
 v+APLkiBOgZ2EQMiTCd7sAnhLmSDaxHo4w1UxipJS7uvc+K6Wfps2q1TF4JJYEGKb2HBDH8vNZPN
-kXtdyeUiGGyKs1GrzZerequire 'stripe'
-charge = Stripe::Charge.retrieve(
-  'ch_3KlqcoISOxj70O5e0OrBTSFM',
-  {
-    stripe_account: 'acct_1KlggaISOxj70O5e',
-  }
-)
-charge.capture # Uses the same account.6SQJjWNVubHKJ9euAKcfpQhFHyekE6NSK
+kXtdyeUiGGyKs1GrzZerequire
+Transfer to Stripe account: localhost 4242
